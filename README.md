@@ -1,6 +1,4 @@
-# Deprecated : please use https://github.com/ArduPilot/ardupilot_gazebo
-
-# Ardupilot Gazebo plugin 
+# Ardupilot Gazebo plugin (for Damn Vulnerable Drone)
 
 ## Requirements :
 Native Ubuntu able to run full 3D graphics.
